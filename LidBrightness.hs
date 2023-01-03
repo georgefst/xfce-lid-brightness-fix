@@ -6,11 +6,11 @@
 
 {- cabal:
 build-depends:
-    base,
-    evdev-streamly,
-    evdev,
-    process,
-    streamly,
+    base >= 4.16,
+    evdev-streamly >= 0.0.2,
+    evdev >= 2.1,
+    process >= 1.6,
+    streamly >= 0.8,
 -}
 
 module Main (main) where
