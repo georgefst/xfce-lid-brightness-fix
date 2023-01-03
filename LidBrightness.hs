@@ -7,8 +7,8 @@
 {- cabal:
 build-depends:
     base >= 4.16,
-    evdev-streamly >= 0.0.2,
     evdev >= 2.1,
+    evdev-streamly >= 0.0.2,
     process >= 1.6,
     streamly >= 0.8,
 -}
