@@ -1,8 +1,7 @@
 #!/usr/bin/env cabal
 
-{-# LANGUAGE ImportQualifiedPost #-}
+{-# LANGUAGE GHC2021 #-}
 {-# LANGUAGE OverloadedStrings #-}
-{-# LANGUAGE TypeApplications #-}
 {-# OPTIONS_GHC -Wall #-}
 
 {- cabal:
